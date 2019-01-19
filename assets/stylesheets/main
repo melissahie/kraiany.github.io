@@ -188,13 +188,13 @@ ul li {
 @media (min-width: 768px) {
   .section {
     padding: 90px 0; }
-
   .section-title {
     color: #313131;
     letter-spacing: 1px;
     margin: 0 0 60px;
     text-transform: uppercase;
     text-align: left; } }
+
 /* 
  * 4.0 Navigation
  */
@@ -287,10 +287,10 @@ ul li {
   .navbar-custom {
     background-color: transparent;
     padding-top: 30px; }
-
   .site-branding {
     margin-top: 6px;
     margin-left: 0; } }
+
 /* 
  * 6.0 Section
  */
@@ -299,6 +299,7 @@ ul li {
  */
 .about .section-title {
   margin: 0 0 25px; }
+
 .about figure {
   margin-bottom: 25px; }
 
@@ -308,6 +309,7 @@ ul li {
 .facts i {
   color: #fff;
   font-size: 3em; }
+
 .facts h3 {
   color: #fff;
   text-align: center;
@@ -394,19 +396,23 @@ ul li {
  */
 .faq .panel-heading {
   cursor: pointer; }
+
 .faq .faq-toggle.collapsed::before {
   font-family: "Ionicons";
   content: "\f218";
   transition: 0.5s linear ease-out;
   position: absolute;
   left: 15px; }
+
 .faq .faq-toggle::before {
   position: absolute;
   left: 15px;
   font-family: "Ionicons";
   content: "\f209"; }
+
 .faq .panel-group .panel + .panel {
   margin-top: 15px; }
+
 .faq .panel-default > .panel-heading {
   color: #FFF;
   background-color: #000000;
@@ -441,24 +447,21 @@ ul li {
 @media (min-width: 768px) {
   .grid-item-sm-6 {
     width: 50%; }
-
   .grid-item-sm-3 {
     width: 25%; }
-
   .section-title {
     margin: 0 0 30px; }
-
   figure {
     margin-bottom: 0; } }
+
 @media (min-width: 992px) {
   .schedule-box {
     margin: 0; }
-
   .grid-item-md-6 {
     width: 50%; }
-
   .grid-item-md-3 {
     width: 25%; } }
+
 /* 
  * 7.0 Site-footer
  */
