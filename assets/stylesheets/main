@@ -496,9 +496,16 @@ li.plain {
 #site-nav .navbar-header a {
   text-transform: none; }
 
+#news h1.section-title, #news h2.section-title {
+  margin-top: 30px; }
+
 #news h1 .published_on, #news h2 .published_on {
   display: block;
   color: #000;
   padding-top: 20px;
   font-size: 0.5em;
   color: gray; }
+
+#news .summary {
+  display: block;
+  text-align: justify; }
