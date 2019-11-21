@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.kraiany.org/parade</loc>
+    <loc>https://www.kraiany.org/uk/news/2019-05-20-parade-2019.html</loc>
+    <lastmod>2019-05-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.kraiany.org</loc>
@@ -10,7 +13,31 @@
     <loc>https://www.kraiany.org/news</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/uk/news/2019-05-20-parade-2019</loc>
+    <loc>https://www.kraiany.org/news.html</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/parade</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/parade.html</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/parade</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/news</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/en/parade</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/en/news</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/parade</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news</loc>
   </url>
   <url>
     <loc>https://www.kraiany.org/ja</loc>
@@ -22,21 +49,21 @@
     <loc>https://www.kraiany.org/uk</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/ja/parade</loc>
+    <loc>https://www.kraiany.org/ja/parade.html</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/en/parade</loc>
+    <loc>https://www.kraiany.org/en/parade.html</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/uk/parade</loc>
+    <loc>https://www.kraiany.org/uk/parade.html</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/ja/news</loc>
+    <loc>https://www.kraiany.org/ja/news.html</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/en/news</loc>
+    <loc>https://www.kraiany.org/en/news.html</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/uk/news</loc>
+    <loc>https://www.kraiany.org/uk/news.html</loc>
   </url>
 </urlset>
