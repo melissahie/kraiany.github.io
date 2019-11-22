@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.kraiany.org/uk/news/2015-05-10-parade-2015.html</loc>
+    <lastmod>2015-05-10 15:52:00 UTC</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.kraiany.org/en/news/2019-11-20-kwf-karate.html</loc>
     <lastmod>2019-11-20</lastmod>
     <changefreq>yearly</changefreq>
@@ -21,7 +27,7 @@
   <url>
     <loc>https://www.kraiany.org/uk/news/2018-05-21-parade-2018.html</loc>
     <lastmod>2018-05-21 15:52:00 UTC</lastmod>
-    <changefreq>yearkly</changefreq>
+    <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
