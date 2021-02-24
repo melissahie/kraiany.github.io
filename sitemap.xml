@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.kraiany.org/en/news/2019-11-23-kwf-medal-annulment.html</loc>
-    <lastmod>2019-11-23 06:39:16 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.kraiany.org/uk/news/2019-11-25-costume-2019.html</loc>
     <lastmod>2019-11-25 03:05:03 UTC</lastmod>
     <changefreq>monthly</changefreq>
@@ -43,20 +37,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.kraiany.org/ja/news/2019-11-23-kwf-medal-annulment.html</loc>
-    <lastmod>2019-11-23 06:39:16 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.kraiany.org/uk/news/2019-05-20-parade-2019.html</loc>
     <lastmod>2019-05-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/ja/news/2019-11-20-kwf-karate.html</loc>
-    <lastmod>2019-11-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -73,12 +55,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.kraiany.org/en/news/2019-11-20-kwf-karate.html</loc>
-    <lastmod>2019-11-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.kraiany.org/uk/news/2018-05-21-parade-2018.html</loc>
     <lastmod>2018-05-21 15:52:00 UTC</lastmod>
     <changefreq>yearly</changefreq>
@@ -87,18 +63,6 @@
   <url>
     <loc>https://www.kraiany.org/uk/news/2015-05-10-parade-2015-pre.html</loc>
     <lastmod>2015-05-10 15:52:00 UTC</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/news/2019-11-23-kwf-medal-annulment.html</loc>
-    <lastmod>2019-11-23 06:39:16 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/news/2019-11-20-kwf-karate.html</loc>
-    <lastmod>2019-11-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
