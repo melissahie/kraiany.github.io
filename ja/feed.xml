@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>お知らせ - クラヤネ (Kraiany)</title>
-  <subtitle>ニュースとプレスリリース. 在日ウクライナ人コミュニティ「クラヤネ」(Kraiany)</subtitle>
+  <subtitle>ニュースとプレスリリース. 地域住民に国際的な感覚を身につけ、ウクライナ人、ウクライナの文化や異文化を理解する国際的な人々を育成し、国際交流を通じて世界平和に貢献する場所と機会を提供することを目的としています。</subtitle>
   <id>https://www.kraiany.org/ja/news.html</id>
   <link href="https://www.kraiany.org/ja/news.html"/>
   <link href="https://www.kraiany.org/ja/feed.xml" rel="self"/>
   <updated>2019-12-22T03:05:00+00:00</updated>
   <author>
-    <name>クラヤネ (Kraiany)</name>
+    <name>NPO クラヤネ (Kraiany)</name>
   </author>
   <entry>
     <title>「ウクライナ民族衣装展示会」が東京で開催されました</title>
@@ -16,7 +16,7 @@
     <published>2019-11-25T03:05:00+00:00</published>
     <updated>2019-11-25T03:05:00+00:00</updated>
     <author>
-      <name>クラヤネ (Kraiany)</name>
+      <name>NPO クラヤネ (Kraiany)</name>
     </author>
     <summary type="html">
 &lt;p&gt;11月18から22日にかけて、東京文化学園のギャラリーにて、ウクライナの衣装の展示が行われました。展示会では、ウクライナの16の地域からの17のオリジナル民族衣装と、中央ウクライナのルシニク（刺繍が施された布）が紹介されました。&lt;/p&gt;
@@ -43,7 +43,7 @@
     <published>2019-05-14T04:37:00+00:00</published>
     <updated>2019-05-14T04:37:00+00:00</updated>
     <author>
-      <name>クラヤネ (Kraiany)</name>
+      <name>NPO クラヤネ (Kraiany)</name>
     </author>
     <summary type="html">&lt;p&gt;日本の皆様にウクライナの文化に少しでも触れていただくため、第７回東京ウクライナ・パレードの開催を決定いたしました。&lt;/p&gt;
 
@@ -83,7 +83,7 @@
     <published>2018-05-08T04:37:00+00:00</published>
     <updated>2018-05-08T04:37:00+00:00</updated>
     <author>
-      <name>クラヤネ (Kraiany)</name>
+      <name>NPO クラヤネ (Kraiany)</name>
     </author>
     <summary type="html">&lt;p&gt;日本の皆様にウクライナの文化に少しでも触れていただくため、第６回東京ウクライナ・パレードの開催を決定いたしました。&lt;/p&gt;
 

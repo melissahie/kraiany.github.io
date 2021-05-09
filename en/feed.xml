@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>News - Kraiany</title>
-  <subtitle>News and Press Releases. Kraiany - independent, non-governmental community of Ukrainians living in Japan.</subtitle>
+  <subtitle>News and Press Releases. NPO Kraiany - Association of friendship Japan-Ukraine. Organization of Ukrianians living in Japan.</subtitle>
   <id>https://www.kraiany.org/en/news.html</id>
   <link href="https://www.kraiany.org/en/news.html"/>
   <link href="https://www.kraiany.org/en/feed.xml" rel="self"/>
   <updated>2019-12-22T03:05:00+00:00</updated>
   <author>
-    <name>Kraiany</name>
+    <name>NPO Kraiany</name>
   </author>
   <entry>
     <title>Ukrainian national costume exhibition was held in Tokyo</title>
@@ -16,7 +16,7 @@
     <published>2019-11-25T03:05:00+00:00</published>
     <updated>2019-11-25T03:05:00+00:00</updated>
     <author>
-      <name>Kraiany</name>
+      <name>NPO Kraiany</name>
     </author>
     <summary type="html">&lt;p&gt;An exhibition of Ukrainian costumes was held on November 18-22 in the gallery of Bunka Gakuen in Tokyo. The exhibition presented 17 original costumes from 16 regions of Ukraine, as well as Rushnyk (embroidered cloth) from Central Ukraine.&lt;/p&gt;
 
