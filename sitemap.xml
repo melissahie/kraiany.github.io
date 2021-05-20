@@ -16,6 +16,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.kraiany.org/ja/news/2021-05-16-parade-2021.html</loc>
+    <lastmod>2021-05-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.kraiany.org/en/news/2019-12-22-christmas-2019.html</loc>
     <lastmod>2019-12-22 03:05:03 UTC</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,6 +66,12 @@
   <url>
     <loc>https://www.kraiany.org/ja/news/2019-05-14-parade-2019.html</loc>
     <lastmod>2019-05-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news/2021-05-16-parade-2021.html</loc>
+    <lastmod>2021-12-22 03:05:03 UTC</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
