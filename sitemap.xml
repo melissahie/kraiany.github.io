@@ -4,80 +4,8 @@
     <loc>https://www.kraiany.org/google88dada53162dff40.html</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/uk/news/2019-11-25-costume-2019.html</loc>
-    <lastmod>2019-11-25 03:05:03 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/news/2019-12-22-christmas-2019.html</loc>
-    <lastmod>2019-12-22 03:05:03 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/ja/news/2021-05-16-parade-2021.html</loc>
-    <lastmod>2021-05-16</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/en/news/2019-12-22-christmas-2019.html</loc>
-    <lastmod>2019-12-22 03:05:03 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/ja/news/2018-05-08-parade-2018.html</loc>
-    <lastmod>2018-05-08</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/en/news/2019-11-25-costume-2019.html</loc>
-    <lastmod>2019-11-25 03:05:03 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.kraiany.org/uk/news/2014-06-28-parade-2014.html</loc>
     <lastmod>2014-06-28 15:52:00 UTC</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/news/2015-05-24-parade-2015.html</loc>
-    <lastmod>2015-05-24 15:52:00 UTC</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/news/2019-05-20-parade-2019.html</loc>
-    <lastmod>2019-05-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/ja/news/2019-11-25-costume-2019.html</loc>
-    <lastmod>2019-11-25 03:05:03 UTC</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/ja/news/2019-05-14-parade-2019.html</loc>
-    <lastmod>2019-05-14</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/news/2021-05-16-parade-2021.html</loc>
-    <lastmod>2021-12-22 03:05:03 UTC</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/news/2018-05-21-parade-2018.html</loc>
-    <lastmod>2018-05-21 15:52:00 UTC</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -88,10 +16,88 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.kraiany.org/uk/news/2015-05-24-parade-2015.html</loc>
+    <lastmod>2015-05-24 15:52:00 UTC</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/news/2018-05-08-parade-2018.html</loc>
+    <lastmod>2018-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news/2018-05-21-parade-2018.html</loc>
+    <lastmod>2018-05-21 15:52:00 UTC</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/news/2019-05-14-parade-2019.html</loc>
+    <lastmod>2019-05-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news/2019-05-20-parade-2019.html</loc>
+    <lastmod>2019-05-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/en/news/2019-11-25-costume-2019.html</loc>
+    <lastmod>2019-11-25 03:05:03 UTC</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/news/2019-11-25-costume-2019.html</loc>
+    <lastmod>2019-11-25 03:05:03 UTC</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news/2019-11-25-costume-2019.html</loc>
+    <lastmod>2019-11-25 03:05:03 UTC</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/en/news/2019-12-22-christmas-2019.html</loc>
+    <lastmod>2019-12-22 03:05:03 UTC</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news/2019-12-22-christmas-2019.html</loc>
+    <lastmod>2019-12-22 03:05:03 UTC</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.kraiany.org/en/news/2021-05-16-parade-2021.html</loc>
     <lastmod>2021-12-22 03:05:03 UTC</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/news/2021-05-16-parade-2021.html</loc>
+    <lastmod>2021-05-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news/2021-05-16-parade-2021.html</loc>
+    <lastmod>2021-12-22 03:05:03 UTC</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/news/2021-06-23-okiagari-koboshi.html</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/news/2021-06-23-okiagari-koboshi.html</loc>
   </url>
   <url>
     <loc>https://www.kraiany.org</loc>
@@ -136,15 +142,6 @@
     <loc>https://www.kraiany.org/uk</loc>
   </url>
   <url>
-    <loc>https://www.kraiany.org/ja/parade.html</loc>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/en/parade.html</loc>
-  </url>
-  <url>
-    <loc>https://www.kraiany.org/uk/parade.html</loc>
-  </url>
-  <url>
     <loc>https://www.kraiany.org/ja/news.html</loc>
   </url>
   <url>
@@ -152,6 +149,15 @@
   </url>
   <url>
     <loc>https://www.kraiany.org/uk/news.html</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/ja/parade.html</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/en/parade.html</loc>
+  </url>
+  <url>
+    <loc>https://www.kraiany.org/uk/parade.html</loc>
   </url>
   <url>
     <loc>https://www.kraiany.org/en/christmas-trivia.html</loc>
